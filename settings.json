@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "playmc-A.aternos.me",
-    "port": 21710,
+    "port": 21710 ,
     "version": "1.20.1",
     "try-creative": false
   },
