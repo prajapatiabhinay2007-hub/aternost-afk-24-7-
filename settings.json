@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Abhinav",
+    "username": "Abhinav_Bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Ourworld-2mKZ.aternos.me",
-    "port": 24647 ,
+    "ip": "Bhargavplays.aternos.me",
+    "port": 15059 ,
     "version": "1.20.1",
     "try-creative": false
   },
